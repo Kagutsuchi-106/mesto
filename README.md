@@ -9,4 +9,6 @@ Flexbox
 
 
 
-
+## Ссылка на репозиторий: 
+https://github.com/Kagutsuchi-106/mesto.git
+https://kagutsuchi-106.github.io/mesto/
